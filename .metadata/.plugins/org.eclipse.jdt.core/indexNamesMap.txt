@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/home/devjava/Documentos/Estudos_Java/STS_Projects/Formação%20Spring_Boot/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
